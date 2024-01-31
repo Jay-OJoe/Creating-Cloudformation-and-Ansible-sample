@@ -22,4 +22,3 @@ We'll be using Cloudformation and Ansible to create and configure our cloud envi
 
 !![Jay](./Cloudformation%20and%20Ansible/01.png)
 
-```ansible version```
